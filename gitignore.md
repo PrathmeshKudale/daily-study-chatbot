@@ -1,0 +1,5 @@
+# Streamlit & Python artifacts
+.streamlit/
+__pycache__/
+*.pyc
+.env
